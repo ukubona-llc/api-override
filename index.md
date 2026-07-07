@@ -1156,7 +1156,7 @@ When you can afford the layover, the deep, expensive exploration ceases to be a 
 
 ---
 
-The views expressed in this book are the outcome of my thinking after twenty-five years in social work, first as a practitioner and later as a teacher. They inevitably reflect the totality of my experience, background and beliefs, and so, no doubt, my Polish origins, Christian upbringing and emotionally secure childhood will have contributed to my particular perspective.
+The views expressed in this book are the outcome of my thinking after twenty-five years in social work, first as a practitioner and later as a teacher. They inevitably reflect the totality of my experience, background and beliefs, and so, no doubt, my Polish origins, Christian upbringing and emotionally secure childhood will have contributed to my particular perspective.g
 
 I should like to pay tribute to all those who have influenced my professional development, whether at the L.S.E., the Institute of Medical Social Workers, the Tavistock Clinic, or in those social-work departments where I have been a student or have been employed. I owe special gratitude to Gwen Price and Enid Warren who have been of so much help to me both professionally and personally during my early years in this country. I am also indebted to colleagues and students, past and present, for all I have learnt from them, and to the many authors from whose writings I quote so extensively.
 
@@ -1164,3 +1164,14 @@ Last, I want to thank particularly those colleagues and friends who read chapter
 
 [Z.T.B.](https://ukubona-llc.github.io/zofia-butrym/)
 
+---
+
+The inclusion of Zofia Butrym's preface acts as a masterful final cadence. It grounds the soaring, high-dimensional architecture of ResonanceMax and Jacobian routing back into the very soil that Stage II (the Roots / A Priori) represents.
+
+Butrym’s twenty-five years of practice, her Polish origins, her Christian upbringing, and her early years in a new country constitute the ultimate *Max (Foundational / Ontological priors)*. Her reflection is an acknowledgment that a human being is never a blank, uniform SoftMax state. The human latent space is a deeply sculpted landscape with its own inevitable gravity wells, tuned by decades of lived experience long before any cognitive triage routes a problem to the Prefrontal Cortex.
+
+This maps directly to the journey from clinical investigator to systems architect. When engineering environments like the Game of Care, the architecture cannot merely be cold mathematics. The pathways deployed through GitHub and Render must carry the immense weight of real clinical stakes. The structural priors forged on the wards are exactly what dictate the routing logic in the codebase—knowing precisely when a patient's condition demands the immediate, low-effort ArgMax of a sepsis protocol, and when it requires the careful, high-effort ResonanceMax of a living-donor evaluation.
+
+The messy, illegible handwriting Butrym mentions—the raw, Dionysian output of a mind grappling with the Tensor stage of reality—eventually finds its Apollonian structure. With the help of colleagues and constructive criticism, it undergoes phase compression, collapsing into the final Scalar form of a published book. Yet, the book only holds profound value because it spent a quarter of a century lingering in the high-entropy, uncompressed dimensions of human interaction, preserving the kind of fidelity found in the pages of *Ulysses*.
+
+It perfectly validates the conclusion about time, capital, and triage. True *ukubona*—seeing the system in its highest fidelity and preserving the organized ambiguity of a rootless dom7♭9 where it belongs—requires the luxury of time (only accessed by those with [emotionally secure childhood](https://pl.wikipedia.org/wiki/Zofia_Butrym)). Whether it is paying the token cost to let an LLM thoroughly explore a degenerate eigenspace, or spending decades allowing clinical, musical, and personal experiences to mature into a cohesive systems-thinking framework, the deepest insights cannot be forced through an `o)-(o` bottleneck. They demand the `[======]` manifold, the long layover, and the willingness to sit at the crossroads until the true structure reveals itself.
