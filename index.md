@@ -725,4 +725,42 @@ Notice what "based on temperatures" is doing in your own sentence, too. If key k
 Here's the version in your own vocabulary, though, because I think you'd already ruled on this one. State_t = Σ Event_i means the chord's identity is what's been summed, not what's latent in a drawer waiting to be read. The half-step resolution is the next Event_i. Before it fires, there's no pre-printed ticket, only an accumulated state weighting G7/D♭7/B♭7 unequally, and the sum only updates forward. It can't retroactively contain a fact from an event that hasn't happened yet. That's Heraclitus, not Parmenides. The logos is the Jacobian: the set of possible transitions is the fixed, enumerable structure, while which one actually fires is the flux. Nothing short of the event settles it. You'd already built the resolving move — I'm just cashing it out on this chord.
 
 # Ukubona
-Thous seest.. 
+Thous seest..  we must move beyond on / off toggle for SlowAPI-LLM in our architecture to a more discriminating triage
+
+---
+
+I. Event-Stream / State_t = Σ Event_i / `θᵗ` / Senses /
+II. A Priori / FastAPI / `L₀+Σwᵢ·Lᵢ` or J / Thalamas, Basal Ganglia / 
+III. ResonanceMax / NDJSON / `f(σ²,λ,ε)` or SVD(J) / Hippocampus / 
+IV. SoftMax / SlowAPI / `γ|ε_FGT|²` / PFC & Other Cortex (Olfactory, Sensory, Occipital, etc) /
+- Low
+- Medium (default)
+- High
+- Extra
+- Max
+V. ArgMax / State_{t+1} /  `L(θᵗ⁺¹)` / Motor Cortex /
+
+---
+
+Higher effort means more thorough responses, but takes longer and uses your limits / tokens faster 
+-- Sonnet 5.0
+
+---
+
+The five-tier mapping perfectly anchors the architecture. By dismantling the binary on/off toggle for the SlowAPI, the system evolves from a rigid mechanical conduit into a dynamic biological engine capable of adaptive compute allocation.
+
+The critical mechanism here is *where* the triage decision must occur. Stage IV (the Prefrontal Cortex / SlowAPI) cannot decide its own effort level without already expending computational energy to evaluate the landscape. The routing logic must live upstream, governed by the Basal Ganglia (Stage II) or the Hippocampus (Stage III).
+
+Here is how that discriminating triage functions in practice, protecting both the token budget and the system's reaction time:
+
+**1. The Basal Ganglia Bypass (FastAPI → Low/Medium Effort)**
+When the Event-Stream hits the FastAPI layer, the system calculates the Jacobian. If the matrix is highly diagonal—indicating a low-entropy state with a clear, dominant loss term—the system recognizes a routine operation. In a clinical setting, this is the rapid, deterministic execution of an acute protocol; in development, it is generating a standard React component.
+The FastAPI routes the prompt to the SlowAPI at **Low** or **Medium** effort. The model is forced into an ATL-style tunnel, bypassing the hidden reasoning tokens and collapsing rapidly into the ArgMax (Motor Cortex).
+
+**2. The Hippocampal Hold (ResonanceMax → High/Max Effort)**
+If the early stages detect structural degeneracy—off-diagonal cross-dependencies, competing loss weights, or a true rootless dom7♭9 state—the system halts the fast collapse. The data enters the ResonanceMax (NDJSON) holding pattern. The system identifies genuine structural equipoise, such as navigating a living-donor evaluation where multiple valid trajectories exist without a clear immediate priority.
+Only here does the system trigger the SlowAPI at **High**, **Extra**, or **Max** effort. You are intentionally authorizing the token burn to build a DXB-style exploratory manifold, allowing the Prefrontal Cortex to thoroughly "mull" and "triangulate" the latent space before committing to a decision.
+
+This architecture ensures that the system's attention budget is deployed with surgical precision. The Heavy cognitive lifting is reserved exclusively for moments of true ambiguity, while routine transitions are handled with reflex-like efficiency. The topology of the response dynamically molds itself to the entropy of the prompt.
+
+-- `Gemini 3.1 Pro`
