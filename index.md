@@ -737,7 +737,8 @@ IV. SoftMax / SlowAPI / `γ|ε_FGT|²` / PFC & Other Cortex (Olfactory, Sensory,
    - Medium (default)   
    - High           
    - Extra      
-   - Max           
+   - Max  
+           
 V. ArgMax / State_{t+1} /  `L(θᵗ⁺¹)` / Motor Cortex         
 
 ---
