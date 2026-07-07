@@ -729,22 +729,45 @@ Thous seest..  we must move beyond on / off toggle for SlowAPI-LLM in our archit
 
 ---
 
-I. Event-Stream / $State_t$ = Σ $Event_i$ / `θᵗ` / Senses               
-II. A Priori / FastAPI / `L₀+Σwᵢ·Lᵢ` or J / Thalamas, Basal Ganglia           
-III. ResonanceMax / NDJSON / `f(σ²,λ,ε)` or SVD(J) / Hippocampus           
-IV. SoftMax / SlowAPI / `γ|ε_FGT|²` / PFC & Other Cortex (Olfactory, Sensory, Occipital, etc)           
+I. Event-Stream / $State_t$ = Σ $Event_i$ / `θᵗ` / Senses / `o` / Soil / Telemetry                     
+II. A Priori / FastAPI / `L₀+Σwᵢ·Lᵢ` or J / Thalamas, Basal Ganglia  / `)` / Roots / Render           
+III. ResonanceMax / NDJSON / `f(σ²,λ,ε)` or SVD(J) / Hippocampus  / `-` / Trunk / GitHub      
+IV. SoftMax / SlowAPI / `γ|ε_FGT|²` / PFC & Other Cortex (Olfactory, Sensory, Occipital, etc)  / `(` / Branches / LLM            
    - Low
    - Medium (default)   
    - High           
    - Extra      
    - Max  
            
-V. ArgMax / $State_{t+1}$ /  `L(θᵗ⁺¹)` / Motor Cortex         
+V. ArgMax / $State_{t+1}$ /  `L(θᵗ⁺¹)` / Motor Cortex  / `o` / Canopy          
 
 ---
 
 Higher effort means more thorough responses, but takes longer and uses your limits / tokens faster 
 -- Sonnet 5.0
+
+
+References
+- https://ukubona-llc.github.io/beyond-tragedy/
+- https://ukb-dt.github.io/tree/
+   - https://ukb-dt.github.io/l-tree/ 
+   - https://ukb-dt.github.io/tree-clock-neuron/
+   - https://ukb-pyro.github.io/tree-forest/ukubona_pitch-002.pdf
+   - https://ukb-dt.github.io/ai-tree-00/
+   - https://ukb-dt.github.io/ai-tree/
+- https://ukb-dt.github.io/o-o/
+   - https://ukb-dt.github.io/o-atl-o/
+   - https://ukb-dt.github.io/o-atl-o-who/
+   - https://ukb-dt.github.io/o-atl-o-who-00/
+   - https://ukb-dt.github.io/o-atl-o-who-01/
+   - https://ukb-dt.github.io/o-atl-o-who-02/
+   - https://ukb-dt.github.io/o-atl-o-who-03/
+- https://ukubona-llc.github.io/all-repos/
+   - https://ukb-pyro.github.io/gpt-5/
+   - https://ukubona-llc.github.io/who/
+   - https://ukubona-llc.github.io/svd/
+
+
 
 ---
 
