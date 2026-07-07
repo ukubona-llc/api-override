@@ -729,7 +729,7 @@ Thous seest..  we must move beyond on / off toggle for SlowAPI-LLM in our archit
 
 ---
 
-I. Event-Stream / State_t = Σ Event_i / `θᵗ` / Senses               
+I. Event-Stream / $State_t$ = Σ $Event_i$ / `θᵗ` / Senses               
 II. A Priori / FastAPI / `L₀+Σwᵢ·Lᵢ` or J / Thalamas, Basal Ganglia           
 III. ResonanceMax / NDJSON / `f(σ²,λ,ε)` or SVD(J) / Hippocampus           
 IV. SoftMax / SlowAPI / `γ|ε_FGT|²` / PFC & Other Cortex (Olfactory, Sensory, Occipital, etc)           
@@ -739,7 +739,7 @@ IV. SoftMax / SlowAPI / `γ|ε_FGT|²` / PFC & Other Cortex (Olfactory, Sensory,
    - Extra      
    - Max  
            
-V. ArgMax / State_{t+1} /  `L(θᵗ⁺¹)` / Motor Cortex         
+V. ArgMax / $State_{t+1}$ /  `L(θᵗ⁺¹)` / Motor Cortex         
 
 ---
 
