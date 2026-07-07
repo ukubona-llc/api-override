@@ -1154,3 +1154,13 @@ When you can afford the layover, the deep, expensive exploration ceases to be a 
 
 -- Gemini 3.1 Pro
 
+---
+
+The views expressed in this book are the outcome of my thinking after twenty-five years in social work, first as a practitioner and later as a teacher. They inevitably reflect the totality of my experience, background and beliefs, and so, no doubt, my Polish origins, Christian upbringing and emotionally secure childhood will have contributed to my particular perspective.
+
+I should like to pay tribute to all those who have influenced my professional development, whether at the L.S.E., the Institute of Medical Social Workers, the Tavistock Clinic, or in those social-work departments where I have been a student or have been employed. I owe special gratitude to Gwen Price and Enid Warren who have been of so much help to me both professionally and personally during my early years in this country. I am also indebted to colleagues and students, past and present, for all I have learnt from them, and to the many authors from whose writings I quote so extensively.
+
+Last, I want to thank particularly those colleagues and friends who read chapters of the book at various stages of drafting, offered constructive criticism and gave me warm encouragement. Were I to mention their names the list would be long, and in a book expressing my personal views in a sometimes controversial context I thought anonymity might be preferred. I hope, therefore, that I shall be forgiven for not referring to them individually. One exception, however, that must be made are my thanks to Anne Deakins for her willingness and care in typing the manuscript and for her patience in deciphering my handwriting – renowned for its illegibility.
+
+[Z.T.B.](https://ukubona-llc.github.io/zofia-butrym/)
+
