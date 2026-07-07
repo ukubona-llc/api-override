@@ -736,7 +736,8 @@ II. A Priori / FastAPI / `L₀+Σwᵢ·Lᵢ` or J / Thalamas, Basal Ganglia  / `
    - Medium (Default heuristics / Pattern matching)
    - High (Contextual integration)
    - Extra (Structural symmetry / Degeneracy detectors)
-   - Max (Foundational / Ontological priors)         
+   - Max (Foundational / Ontological priors)   
+        
 III. ResonanceMax / NDJSON / `f(σ²,λ,ε)` or SVD(J) / Hippocampus  / `-` / Trunk / GitHub      
 IV. SoftMax / SlowAPI / `γ|ε_FGT|²` / PFC & Other Cortex (Olfactory, Sensory, Occipital, etc)  / `(` / Branches / LLM            
    - Low
