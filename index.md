@@ -31,7 +31,7 @@ Tensor is ontology (body). Matrix is epistemology (mind). Vector was realizing t
 
 ---
 
-II. Reflex: Does Steve Touch Epistemology (SQL databases at 9:58)?       
+II. [Reflex](https://ukubona-llc.github.io/claritas/): Does Steve Touch Epistemology (SQL databases at 9:58)?       
 III. **Heuristic: Custom Apps (Ukubona LLCs focus; Dev env)**        
 IV. **Local: Productivity Apps (When the app spreads through organization)**       
 V. **Regional: Interpersonal Computing (Scaling collaborative productivity)**  
