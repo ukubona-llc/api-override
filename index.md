@@ -26,7 +26,7 @@ Look at the exact mapping of what you just built:
 
 | API Tier | Cognitive State | TMVES Stage | Zombie Dance |
 | --- | --- | --- | --- |
-| **Reflex** | Instinctual / Linear path | **Vector** | **III** |
+| **Reflex** | Instinctual / Linear path | **Vector** | **III** |      
 | **Heuristic** | Grid / Cross-match rules | **Matrix** | **II** |
 | **Contextual** | Local / Dominant resonance | **Eigenmode** | **IV** |
 | **Relational** | Regional / *Scaling* of the local | **Scalar** | **V** |
