@@ -54,7 +54,7 @@ V. **Regional: Interpersonal Computing (Scaling collaborative productivity)**
 
    - `V. Meaning. Sovereignty: Sawubona (update)` [Will-to-Power](https://ukubona-llc.github.io/autoencoder/)
 
-I. [Global](https://ukubona-llc.github.io/o-o/): What About Ontology      
+I. [Global](https://ukubona-llc.github.io/o-o/): What About Ontology?  
 
 ---
    
