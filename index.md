@@ -32,9 +32,9 @@
 2. **Local: Productivity Apps (When the app spreads through organization)**
 3. **Regional: Interpersonal Computing (Scaling collaborative productivity)**
 4. Global: What About Ontology 
-   - `PC: Word-Processing` 
-   - `Workstation: Okubala` 
-   - `NextStep: Kulaba`
+   - `PC: Word-Processing (words)` 
+   - `Workstation: Okubala (numbers)` 
+   - `NextStep: Kulaba (insights)`
 
 ---
    
