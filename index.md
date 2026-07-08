@@ -36,6 +36,23 @@
    - `II. Science. Workstation: Okubala/Kubona (numbers/loss)` [Apollonian] 
    - `III. Art.` [NextStep](https://www.youtube.com/watch?v=rf5o5liZxnA?start=1800): `Kulaba/Ivabona (gradient)` [Tragicomedy]
    - `IV. Life. Event-Streaming: Ukubona (descent)` [Eternal-Recurrence]
+      - Its here that market research helped Steve Jobs "to see"
+      - Which led to foresight and anticipation
+      - And to budget commitments in a very clear direction 
+  
+       * **00:03:22 (saw):** "...and we **saw** something very important and what we **saw** was that the workstation Marketplace is really not just one..."
+       * **00:05:03 (see):** "...Sun had the majority share that's why we didn't **see** it before it was such a small blip..."
+       * **00:05:09 (seen):** "...it did not show up on our radar screen but we've **seen** it now and it's good that we have..."
+       * **00:07:30 (see):** "...sun is today the major participant in this marketplace with an 80% market share and I personally don't **see** too many other people being able to move into this Marketplace..."
+       * **00:09:50 (seeing):** "...together are things they cannot begin to get from these class of products so the first thing we're **seeing** is the custom app is the key thing..."
+       * **00:10:00 (see):** "...that's driving these people to upgrade from PCS and workstations and even down here we **see** the same thing..."
+       * **00:12:11 (see):** "...having better productivity apps will be important to the primary sale I believe what we're starting to **see** first Boston is a good example..."
+       * **00:13:16 (seen):** "...as these customers become educated in the sales cycle I'm sure all of you have **seen** the value of interpersonal Computing rise in their eyes..."
+       * **00:14:30 (see):** "...everyone who is considering a purchase of a son calls us up and you'll **see** more and more of our marketing targeted to try to make this happen..."
+       * **00:15:56 (seeing):** "...one of the things we need to do is to use our software Camp more we're not **seeing** enough corporate Developers..."
+       * **00:17:42 (see):** "...and as we use them to move people into the category they are already very well positioned to **see** us in a favorable light once they're inside..."
+       * **00:18:35 (see):** "...give me some feedback if this is a successful way of communicating and uh I'm sure I'll **see** most of you soon and I'll **see** you all at the retreat..."
+
    - `V. Meaning. Sovereignty: Sawubona (update)` [Will-to-Power]
 
 ---
