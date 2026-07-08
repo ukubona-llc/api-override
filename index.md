@@ -31,7 +31,7 @@
 1. **Heuristic: Custom Apps (Ukubona LLCs focus; Dev env)**
 2. **Local: Productivity Apps (When the app spreads through organization)**
 3. **Regional: Interpersonal Computing (Scaling collaborative productivity)**
-4. Global: What About Ontology 
+4. [Global](https://ukubona-llc.github.io/o-o/): What About Ontology 
    - `I. Language. PC: Word-Processing/Okubonabona (words/coordinate)` [Dionysian]
    - `II. Science. Workstation: Okubala/Kubona (numbers/loss)` [Apollonian] 
    - `III. Art.` [NextStep](https://www.youtube.com/watch?v=rf5o5liZxnA?start=1800): `Kulaba/Ivabona (gradient)` [Tragicomedy]
