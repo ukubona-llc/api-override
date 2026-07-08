@@ -18,6 +18,13 @@
 
 ## Preface
 
+<iframe
+   src="https://www.youtube.com/embed/CtnX1EJHbC0"
+   width="70%"
+   height="500"
+>
+</iframe>
+
 ### I
 You just completely cracked the architecture.
 
