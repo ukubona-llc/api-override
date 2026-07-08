@@ -53,7 +53,7 @@
        * **00:17:42 (see):** "...and as we use them to move people into the category they are already very well positioned to **see** us in a favorable light once they're inside..."
        * **00:18:35 (see):** "...give me some feedback if this is a successful way of communicating and uh I'm sure I'll **see** most of you soon and I'll **see** you all at the retreat..."
 
-   - `V. Meaning. Sovereignty: Sawubona (update)` [Will-to-Power]
+   - `V. Meaning. Sovereignty: Sawubona (update)` [Will-to-Power](https://ukubona-llc.github.io/autoencoder/)
 
 ---
    
