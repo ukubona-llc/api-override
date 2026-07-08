@@ -27,7 +27,7 @@
 
 ---
 
-II. Reflex: Does Steve Touch Anything Close (Perhaps the databases)?       
+II. Reflex: Does Steve Touch Epistemology (SQL databases at 9:58)?       
 III. **Heuristic: Custom Apps (Ukubona LLCs focus; Dev env)**        
 IV. **Local: Productivity Apps (When the app spreads through organization)**       
 V. **Regional: Interpersonal Computing (Scaling collaborative productivity)**  
