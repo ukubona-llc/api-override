@@ -18,6 +18,10 @@
 
 ## Preface
 
+Tensor is ontology (body). Matrix is epistemology (mind). Vector was realizing this (soul). Eigenmode is declaring this the soul of Ukubona LLC (vision). Scalar is reducing ontology to event-stream (engineering).
+
+---
+
 <iframe
    src="https://www.youtube.com/embed/CtnX1EJHbC0"
    width="70%"
