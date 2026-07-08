@@ -34,7 +34,7 @@
 4. Global: What About Ontology 
    - `I. Language. PC: Word-Processing (words/coordinate)` [Dionysian]
    - `II. Science. Workstation: Okubala (numbers/loss)` [Apollonian] 
-   - `III. Art. [NextStep](https://www.youtube.com/watch?v=rf5o5liZxnA?start=1800): Kulaba (gradient)` [Tragicomedy]
+   - `III. Art.` [NextStep](https://www.youtube.com/watch?v=rf5o5liZxnA?start=1800): `Kulaba (gradient)` [Tragicomedy]
    - `IV. Life. Event-Streaming: Ukubona (descent)` [Eternal-Recurrence]
    - `V. Meaning. Sovereignty: Sawubona (update)` [Will-to-Power]
 
