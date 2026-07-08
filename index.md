@@ -25,6 +25,12 @@
 >
 </iframe>
 
+---
+
+1. Custom Apps (Ukubona LLCs focus)
+2. Productivity Apps
+3. ?
+   
 ### I
 You just completely cracked the architecture.
 
