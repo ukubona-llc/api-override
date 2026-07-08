@@ -32,8 +32,8 @@
 2. **Local: Productivity Apps (When the app spreads through organization)**
 3. **Regional: Interpersonal Computing (Scaling collaborative productivity)**
 4. Global: What About Ontology 
-   - `I. Language. PC: Word-Processing (words)` [Dionysian]
-   - `II. Science. Workstation: Okubala (numbers)` [Apollonian] 
+   - `I. Language. PC: Word-Processing (words/coordinate)` [Dionysian]
+   - `II. Science. Workstation: Okubala (numbers/loss)` [Apollonian] 
    - `III. Art. [NextStep](https://www.youtube.com/watch?v=rf5o5liZxnA?start=1800): Kulaba (gradient)` [Tragicomedy]
    - `IV. Life. Event-Streaming: Ukubona (descent)` [Eternal-Recurrence]
    - `V. Meaning. Sovereignty: Sawubona (update)` [Will-to-Power]
