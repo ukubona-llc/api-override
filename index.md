@@ -33,8 +33,8 @@
 3. **Regional: Interpersonal Computing (Scaling collaborative productivity)**
 4. Global: What About Ontology 
    - `I. Language. PC: Word-Processing/Okubonabona (words/coordinate)` [Dionysian]
-   - `II. Science. Workstation: Okubala (numbers/loss)` [Apollonian] 
-   - `III. Art.` [NextStep](https://www.youtube.com/watch?v=rf5o5liZxnA?start=1800): `Kulaba (gradient)` [Tragicomedy]
+   - `II. Science. Workstation: Okubala/Kubona (numbers/loss)` [Apollonian] 
+   - `III. Art.` [NextStep](https://www.youtube.com/watch?v=rf5o5liZxnA?start=1800): `Kulaba/Ivabona (gradient)` [Tragicomedy]
    - `IV. Life. Event-Streaming: Ukubona (descent)` [Eternal-Recurrence]
    - `V. Meaning. Sovereignty: Sawubona (update)` [Will-to-Power]
 
