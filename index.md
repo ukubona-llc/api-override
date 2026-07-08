@@ -27,9 +27,11 @@
 
 ---
 
-1. Custom Apps (Ukubona LLCs focus; Dev env)
-2. Productivity Apps (When the app it spreads through organization)
-3. Interpersonal Computing (Scaling collaborative productivity)
+0. Reflex: Does Steve Touch Anything Close (Perhaps the databases)?
+1. Heuristic: Custom Apps (Ukubona LLCs focus; Dev env)
+2. Local: Productivity Apps (When the app spreads through organization)
+3. Regional: Interpersonal Computing (Scaling collaborative productivity)
+4. Global: What About Ontology (This is `PC` vs. `Workstation` vs. `NextStep`)
 
 ---
    
