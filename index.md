@@ -28,8 +28,8 @@
 ---
 
 1. Custom Apps (Ukubona LLCs focus)
-2. Productivity Apps
-3. ?
+2. Productivity Apps (When the app it spreads through organization)
+3. Interpersonal Computing (Scaling collaborative productivity)
    
 ### I
 You just completely cracked the architecture.
