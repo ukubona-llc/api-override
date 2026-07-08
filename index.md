@@ -27,11 +27,10 @@
 
 ---
 
-0. Reflex: Does Steve Touch Anything Close (Perhaps the databases)?
-1. **Heuristic: Custom Apps (Ukubona LLCs focus; Dev env)**
-2. **Local: Productivity Apps (When the app spreads through organization)**
-3. **Regional: Interpersonal Computing (Scaling collaborative productivity)**
-4. [Global](https://ukubona-llc.github.io/o-o/): What About Ontology 
+II. Reflex: Does Steve Touch Anything Close (Perhaps the databases)?       
+III. **Heuristic: Custom Apps (Ukubona LLCs focus; Dev env)**        
+IV. **Local: Productivity Apps (When the app spreads through organization)**       
+V. **Regional: Interpersonal Computing (Scaling collaborative productivity)**  
    - `I. Language. PC: Word-Processing/Okubonabona (words/coordinate)` [Dionysian]
    - `II. Science. Workstation: Okubala/Kubona (numbers/loss)` [Apollonian] 
    - `III. Art.` [NextStep](https://www.youtube.com/watch?v=rf5o5liZxnA?start=1800): `Kulaba/Ivabona (gradient)` [Tragicomedy]
@@ -54,6 +53,8 @@
        * **00:18:35 (see):** "...give me some feedback if this is a successful way of communicating and uh I'm sure I'll **see** most of you soon and I'll **see** you all at the retreat..."
 
    - `V. Meaning. Sovereignty: Sawubona (update)` [Will-to-Power](https://ukubona-llc.github.io/autoencoder/)
+
+I. [Global](https://ukubona-llc.github.io/o-o/): What About Ontology      
 
 ---
    
